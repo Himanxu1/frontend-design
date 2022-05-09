@@ -1,0 +1,25 @@
+.nav{
+
+}
+
+ul{
+    display: flex;
+     background-color:rgb(15, 128, 128);
+     height: 60px;
+     color: white;
+     justify-content:end;
+}
+
+ul li{
+    list-style: none;
+    font-size: 20px;
+    margin-right: 25px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
